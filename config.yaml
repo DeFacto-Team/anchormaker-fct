@@ -1,0 +1,10 @@
+mainnet:
+  url: "https://api.factomd.net"
+  user: ""
+  password: ""
+  chainid: ""
+customnet:
+  url: "https://dev.factomd.net"
+  user: ""
+  password: ""
+  chainid: ""
